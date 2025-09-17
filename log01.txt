@@ -1,0 +1,64 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250917102037
+Username: GANZISKOLA\santhaak1005
+RunAs User: GANZISKOLA\santhaak1005
+Configuration Name: 
+Machine: A019-09 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 11052
+PSVersion: 5.1.26100.4768
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4768
+BuildVersion: 10.0.26100.4768
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\log01.txt
+]633;D;0]633;A]633;P;Cwd=Z:\x5cWebprogramozas\x5cdp1PS Z:\Webprogramozas\dp1> ]633;B
+PS>cd z://webprogramozas//dp1
+ls
+
+
+    Directory: Z:\webprogramozas\dp1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----     2025. 09. 17.     10:19            309 celok.md
+-a----     2025. 09. 17.      9:40            193 cv.md
+-a----     2025. 09. 17.      9:32           3006 dp1.md
+-a----     2025. 09. 17.     10:01            519 konyvek.md
+-a----     2025. 09. 17.     10:20            916 log01.txt
+-a----     2025. 09. 17.     10:15           3543 log02.txt
+-a----     2025. 09. 17.      9:49            152 projekt.md
+
+
+]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
+PS>Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20250917102107
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20250917102217
+Username: GANZISKOLA\santhaak1005
+RunAs User: GANZISKOLA\santhaak1005
+Configuration Name: 
+Machine: A019-09 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 11052
+PSVersion: 5.1.26100.4768
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4768
+BuildVersion: 10.0.26100.4768
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\log01.txt
+]633;D;0]633;A]633;P;Cwd=Z:\x5cwebprogramozas\x5cdp1PS Z:\webprogramozas\dp1> ]633;B
